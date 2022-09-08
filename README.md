@@ -1,4 +1,4 @@
-# 0x16.c - Simple Shell project - hsh
+# Simple Shell project
 
 This is a simple UNIX command interpreter based on bash and Sh.
 
@@ -136,4 +136,4 @@ The operators `&&` and `||` have equal precedence, followed by `;`.
 
 ## Authors & Copyrights
 
-* Peter Macharia <{peternmacharia}}>
+* Peter Macharia <{peternmacharia}>
